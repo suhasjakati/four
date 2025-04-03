@@ -1,5 +1,5 @@
 class javaex {
     public static void main(String[] args) {
-        System.out.println("Hello world44!!");
+        System.out.println("Hello !!");
     }
 }
